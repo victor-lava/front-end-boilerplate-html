@@ -37,7 +37,6 @@ Take a look a the directory structure below and then proceed with the instructio
 		` npm install `
 	4. Launch the grunt watch task
 	   ` grunt watch `
-
 2. Open index.html on your browser
 
 ## How to minify files
