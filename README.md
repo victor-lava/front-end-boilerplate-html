@@ -40,10 +40,10 @@ Take a look a the directory structure below and then proceed with the instructio
 2. Open index.html on your browser
 
 ## How to minify files
-	1. Open the project
-		` cd project_folder/www `
-	2. Launch grunt production task
-		` grunt production `
+1. Open the project
+	` cd project_folder/www `
+2. Launch grunt production task
+	` grunt production `
 
 # Author
  Full-stack web developer from Europe - Victor Lava.
