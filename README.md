@@ -25,7 +25,7 @@ Take a look a the directory structure below and then proceed with the instructio
 ## Install global dependencies
 1. [Node.js](https://nodejs.org/en/)
 2. [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
-4. [Grunt.js](https://gruntjs.com/)
+3. [Grunt.js](https://gruntjs.com/)
 
 ## How to start new project
 1. Open terminal
