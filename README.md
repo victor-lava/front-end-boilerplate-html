@@ -38,7 +38,7 @@ Take a look a the directory structure below and then proceed with the instructio
 	4. Launch the grunt watch task
 	   ` grunt watch `
 
-3. Open index.html on your browser
+2. Open index.html on your browser
 
 ## How to minify files
 	1. Open the project
