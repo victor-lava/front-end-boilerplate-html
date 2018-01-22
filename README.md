@@ -1,4 +1,4 @@
-Hybrid front-end/html boilerplate with **SASS** and **Live Reload**. Works well for one pagers. Includes structured SASS with basic **OOCSS**.
+Hybrid front-end/html boilerplate with **SASS** and **Live Reload**. Works well for one pagers/landing pages. Includes structured SASS with basic **OOCSS**.
 # Features
 * Grunt
 * SASS
@@ -14,7 +14,7 @@ Take a look a the directory structure below and then proceed with the instructio
 	2. [02-partials](https://github.com/victor-lava/front-end-boilerplate/tree/master/scss/02-partials)
 	3. [03-pages](https://github.com/victor-lava/front-end-boilerplate/tree/master/scss/03-pages)
 	4. [04-base](https://github.com/victor-lava/front-end-boilerplate/tree/master/scss/04-base)
-	5. [05-bootstrap]
+	5. 05-bootstrap
 	6. style.scss
 2. js *(unminified JS files)*
 3. www
@@ -30,22 +30,21 @@ Take a look a the directory structure below and then proceed with the instructio
 ## How to start new project
 1. Open terminal
 	1. Clone or download this repository
-		``` git clone git@github.com:victor-lava/front-end-boilerplate.git ```
-
+		` git clone git@github.com:victor-lava/front-end-boilerplate.git `
 	2. Open the project
-		``` cd project_folder/ ```
+		` cd project_folder/ `
 	3. Install the required node packages
-		``` npm install ```
+		` npm install `
 	4. Launch the grunt watch task
-	   ``` grunt watch ```
+	   ` grunt watch `
 
 3. Open index.html on your browser
 
 ## How to minify files
 	1. Open the project
-		``` cd project_folder/www ```
+		` cd project_folder/www `
 	2. Launch grunt production task
-		``` grunt production ```
+		` grunt production `
 
 # Author
  Full-stack web developer from Europe - Victor Lava.
